@@ -1,3 +1,3 @@
-# 💫 About Me:
+# ✈ mylesabram:
 🎊 Hello world!<br><br>Student | Aerospace Engineering + Computational Mathematics @ ERAU DB<br><br>▹👨‍💻Coding, creating and studying<br>▹📚Currently learning more on Python and MATLAB <br>▹📖Looking more into C++ and Ros2<br><br>I'm looking to build more connections with others and work on fun projects!<br><br>🔔Follow my journey!<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/myles-abram-71b6a4349) <br><br>
 ![](https://github-readme-stats.vercel.app/api?username=mylesabram&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
